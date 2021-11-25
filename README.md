@@ -42,7 +42,8 @@
   Highlight Symbol
   
  
-Themes I use:
+# Themes I use:
+
   Ample/Ample Dark/Ample Dark Alt
   
   Gruber Darker
