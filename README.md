@@ -1,5 +1,8 @@
 # BocaEmacs
 
+I am more than positive all of the packages I use can be found on either Github (using google search) or melpa, which is the package manager I use. You can install melpa by going to this page and reading the installation instructions:
+
+https://melpa.org/#/getting-started
 
 # Packages I use:
 
